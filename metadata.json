@@ -1,0 +1,5 @@
+{
+  "name": "Formulário de Suporte de TI com IA",
+  "description": "Um sistema de tickets de suporte de TI automatizado que usa a API Gemini para analisar e categorizar solicitações de usuários, apresentado em uma interface limpa semelhante ao Google Forms.",
+  "requestFramePermissions": []
+}
