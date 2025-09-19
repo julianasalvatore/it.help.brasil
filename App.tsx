@@ -11,6 +11,8 @@ import SelectGroup, { OptionGroup } from './components/SelectGroup';
 import { analyzeTicket } from './services/geminiService';
 import { sendSupportEmail } from './services/emailService';
 import { SupportTicketData, TicketAnalysisResult } from './types';
+import Card from "./components/Card";
+
 
 // Define initial state to easily reset the form
 const initialFormData: SupportTicketData = {
